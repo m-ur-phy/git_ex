@@ -1,2 +1,4 @@
 body { font-size: 16px; color: #333; }
 h1 { text-align: center; font-weight: 700; color: red;}
+h2 { font-size: 1.5em; color: orange;}
+p { font-size: 1em; text-align: center;}
